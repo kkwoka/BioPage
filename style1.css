@@ -1,0 +1,64 @@
+body {
+    background-color: #efeee7;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #333333;
+    color: yellowgreen;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1025px;
+}
+
+h1 {
+    font-size: 60px;
+    color: greenyellow;
+    background-color: black;
+    text-align: center;
+    border: 4px dashed red;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+#main-bio {
+    float: left;
+    width: 70%;
+    font-size: 16px;
+}
+
+#contact-info {
+    float: left;
+    width: 30%;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 45px;
+}
+
+#bio-image {
+    float: left;
+}
+
+img {
+    width: 300px;
+    border: 2px solid black;
+    margin-right: 5px;
+}
+
+a {
+    color: #d21034;
+}
